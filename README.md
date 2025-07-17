@@ -14,4 +14,4 @@ I enjoy transforming complex data into meaningful insights to support better dec
 Python • R • Power BI • SPSS • Pandas • Scikit-learn • Regression • Time Series • CRISP-DM
 
 📫 Let's connect:  
-[LinkedIn](www.linkedin.com/in/victoromefe/) | [Portfolio (Coming Soon)](https://omefevictor.github.io)
+[LinkedIn](https://www.linkedin.com/in/victoromefe/) | [Portfolio (Coming Soon)](https://omefevictor.github.io)
